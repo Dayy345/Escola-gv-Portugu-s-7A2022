@@ -1,0 +1,21 @@
+# ESCOLA GILDO VERÍSSIMO
+# Disciplina:Língua Portuguesa
+
+
+# prof: Marcos 
+
+## GÊNERO TEXTUAL: HORÁRIO DE AULAS
+
+### ALUNA: DAYANE MARINHO
+
+#### Turma : 7 A 
+
+
+|HORÁRIO| SEG | TER | QUA | QUI | SEX |
+|:--:|:--:| :--:| :--: |:--:| :--:|
+07:30 08:20|MAT|PORT|HIST|GEO|CIEN|
+08:20 09:10|MAT|PORT|MAT|PORT|GEO|
+09: 10 10:00|CIEN|PORT|HIST|MAT|GEO|
+10:00 10:45|PORT|CIEN|HIST|MAT|INGL|
+10:45 11:30|PORT|CIEN|ART|MAT|INGL|
+
